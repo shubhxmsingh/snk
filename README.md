@@ -83,6 +83,8 @@ For **dark mode** support on github, use this [special syntax](https://docs.gith
 </a>
 
 [platane.github.io/snk](https://platane.github.io/snk)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/shubhxmsingh/shubhxmsingh/output/github-contribution-grid-snake.svg)
+
 
 ### **local**
 
